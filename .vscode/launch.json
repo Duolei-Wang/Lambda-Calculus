@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/mulikas/Documents/GitHub/Lambda-Calculus/UTLC",
+      "program": "/Users/mulikas/Documents/GitHub/Lambda-Calculus/UTLC/build/Debug/outDebug"
+    }
+  ]
+}
