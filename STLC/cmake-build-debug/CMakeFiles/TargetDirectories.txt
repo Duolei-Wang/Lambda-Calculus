@@ -1,0 +1,3 @@
+/Users/mulikas/CLionProjects/Lambda-Calculus/STLC/cmake-build-debug/CMakeFiles/STLC.dir
+/Users/mulikas/CLionProjects/Lambda-Calculus/STLC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mulikas/CLionProjects/Lambda-Calculus/STLC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
